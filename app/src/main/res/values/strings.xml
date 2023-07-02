@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator_App</string>
+    <string name="_0">0</string>
+    <string name="ac">AC</string>
+    <string name="buEqual">=</string>
+    <string name="buDot">•</string>
+    <string name="bu0">0</string>
+    <string name="buminus">-</string>
+    <string name="bu3">3</string>
+    <string name="bu2">2</string>
+    <string name="bu1">1</string>
+    <string name="buplus">+</string>
+    <string name="bu6">6</string>
+    <string name="bu5">5</string>
+    <string name="bu4">4</string>
+    <string name="buPercent">%</string>
+    <string name="bu9">9</string>
+    <string name="bu8">8</string>
+    <string name="bu7">7</string>
+    <string name="buMultiply">*</string>
+    <string name="buDivide">/</string>
+    <string name="buPlusMinus">+/-</string>
+</resources>
